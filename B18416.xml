@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new-years gift: being an help to heart-converse by way of charge and challenge: In morning excitation, and evening examination. Alphabetically digested for the help of memory. by J.C. M.A. Decemb. 27. 1689.  This may be printed.  Rob. Midgley.</title>
+            <author>J. C.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18416</idno><idno type="EEBO-CITATION">99888259</idno>
+  <idno type="VID">201065</idno>
+  <idno type="EEBO-PROQUEST">2240890968</idno>
+  
+            <idno type="STC">Wing C67</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[88]</idno>
+            <idno type="STC">ESTC R229234</idno>
+            <idno type="PROQUEST">ocm99888259</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888259e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201065)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[90])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new-years gift: being an help to heart-converse by way of charge and challenge: In morning excitation, and evening examination. Alphabetically digested for the help of memory. by J.C. M.A. Decemb. 27. 1689.  This may be printed.  Rob. Midgley.</title>
+                  <author>J. C.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst at the Bible and Three Crowns in Cheapside near Mercers Chapel,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Two poems divided by a column of biblical references.</note>
+                  <note>Imperfect: copy cut and torn affecting text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+                  <note>Morning excitation -- Evening examination.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devotional literature --  Early works to 1800.</term>
+               <term type="topical_term">Devotional exercises --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201065:1"/>
+            <head>A New-Years Gift: Being an Help to <hi>Heart-Converse</hi> by way of Charge and Challenge: In Morning Excitation, and Evening Examination. Alphabetically digested for the help of Memory.</head>
+            <byline>By <hi>J. C.</hi> M. A.</byline>
+            <epigraph>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+               <q>
+                  <p>Commune with your own heart,</p>
+                  <bibl>
+                     <hi>Psalm 4.4.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Decemb.</hi> 27. 1689.</date>
+                           </dateline>
+                        </opener>
+                        <p>This may be Printed.</p>
+                        <closer>
+                           <signed>Rob. Midgley.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Morning Excitation.</cell>
+                     <cell role="label">
+                        <q>
+                           <l>A Verse may find him who a Sermon flies,</l>
+                           <l> And turn delight into a Sacrifice.</l>
+                           <bibl>
+                              <hi>Herbert.</hi>
+                           </bibl>
+                        </q>
+                     </cell>
+                     <cell role="label">Evening Examination.</cell>
+                  </row>
+                  <row>
+                     <cell>AWake, arise my Soul, and Praise the Lord.</cell>
+                     <cell>Job 1.5. Psal. 5.3.</cell>
+                     <cell>ARose I early for to Praise the Lord?</cell>
+                  </row>
+                  <row>
+                     <cell>Bend thou thy Mind to Read and Heed his Word.</cell>
+                     <cell>Deut. 17.19. Josh. 1.7, 8.</cell>
+                     <cell>Bent I my Mind to Read and Heed his Word?</cell>
+                  </row>
+                  <row>
+                     <cell>Call on his Name with Faith and Fervent Prayer.</cell>
+                     <cell>Mat. 15.8, 9. Jer. 12.2.</cell>
+                     <cell>Call'd I on God with Faith and Frevent Prayer?</cell>
+                  </row>
+                  <row>
+                     <cell>Deny thy self for Christ: To Die prepare.</cell>
+                     <cell>Luke 9.23. Job 14.14.</cell>
+                     <cell>Did I my self Deny? For Death prepare?</cell>
+                  </row>
+                  <row>
+                     <cell>Each moment of thy Time redeem ere't goes.</cell>
+                     <cell>Eph. 5.16. Col. 4.5.</cell>
+                     <cell>Each moment of my Time redeemed I?</cell>
+                  </row>
+                  <row>
+                     <cell>Fill thou up each Relation. Love thy Foes.</cell>
+                     <cell>Eph. 5.22. <hi>&amp;c.</hi> Col. 3.18, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>Fill'd I my Place? Lov'd I mine Enemy?</cell>
+                  </row>
+                  <row>
+                     <cell>Guard thou thy Heart, wherein all ill begins.</cell>
+                     <cell>Prov. 3.23. Mat. 15.19.</cell>
+                     <cell>Guard I my Heart, wherein all Ill begins?</cell>
+                  </row>
+                  <row>
+                     <cell>Hate thou, and mourn, for thine and others sins.</cell>
+                     <cell>Psal. 38.4. Rom. 7.24. Ezek. 9.4. Jer. 9.1, 2, 3.</cell>
+                     <cell>Hate I and mourn for, mine and others sins?</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> no sin, that thou knowest, lead thy Life.</cell>
+                     <cell>Psal. 119.101, 104.</cell>
+                     <cell>In no Sin, that I knew, led I my Life?</cell>
+                  </row>
+                  <row>
+                     <cell>Keep thou from Pride, Revenge, Lust, Passion, Strife,</cell>
+                     <cell>2 Chron. 32.26. Jam. 4.5 6 7 Rom. 12.19. 2 Tim. 2.22.</cell>
+                     <cell>K<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pt I from Pride, Revenge, Lust Passion, Strife?</cell>
+                  </row>
+                  <row>
+                     <cell>Live thou by Faith. In God set all thy Hope.</cell>
+                     <cell>Gal. 2.20. Psal. 146.5.</cell>
+                     <cell>Liv'd I by Faith? In God set I my Hope?</cell>
+                  </row>
+                  <row>
+                     <cell>Make thou his praise, in all thou do'st, thy scope.</cell>
+                     <cell>2 Cor. 10.31.</cell>
+                     <cell>Made I his Praise, in all I did, my Scope?</cell>
+                  </row>
+                  <row>
+                     <cell>No vain Thought entertain. Think frequently</cell>
+                     <cell>Psal. 119.113.</cell>
+                     <cell>No vain Thought entertain'd I? Mused I</cell>
+                  </row>
+                  <row>
+                     <cell>Of God, Heav'n, Hell, Death, Doom, Eternity.</cell>
+                     <cell>Psal. 16.8. Col. 3.1, 2. 2 Cor. 5.11. Act. 17.30, 31. 2 Cor. 4.18.</cell>
+                     <cell>On God, Heaven, Hell, Death, Doom, Eternity?</cell>
+                  </row>
+                  <row>
+                     <cell>Put thou a Curb on thine unruly Tongue.</cell>
+                     <cell>Jam. 1.26. <hi>and</hi> 3.2, 3, 4. Psal. 39.1.</cell>
+                     <cell>Put I a curb on mine unruly Tongue?</cell>
+                  </row>
+                  <row>
+                     <cell>Quell all Discourse that might thy Neighbor wrong.</cell>
+                     <cell>Tit. 3.2. Jam. 4.11.</cell>
+                     <cell>Quell'd I all Talk, that might my Neighbour wrong?</cell>
+                  </row>
+                  <row>
+                     <cell>Rash Vows shun thou. Keep Promise. Tell no Lye.</cell>
+                     <cell>Josh. 9.14. Psal. 15.4. Eph. 4.25.</cell>
+                     <cell>Rash Vows shunn'd I? Kept Promise? Told no Lye?</cell>
+                  </row>
+                  <row>
+                     <cell>Speak thou at all times what may Edifie.</cell>
+                     <cell>Deut. 6.6, 7. Col. 4.6. Eph. 4.29.</cell>
+                     <cell>Spake I at all Times, what might Edify?</cell>
+                  </row>
+                  <row>
+                     <cell>Take thou with Prayer, &amp; Thankfulness, thy Food.</cell>
+                     <cell>Act. 27.35, 36. Mat. 15.36. Col. 3.17.</cell>
+                     <cell>Took I, with Prayer and Thankfulness, my Food?</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>se thou no more on't, than is for thy good.</cell>
+                     <cell>Jude 12. 2 Pet. 1.6. </cell>
+                     <cell>Vs'd I no more on't than was for my good?</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>at good thou canst, in company, get and do.</cell>
+                     <cell>Gal. 6.10.</cell>
+                     <cell>What Good, in Company, did I get, or do?</cell>
+                  </row>
+                  <row>
+                     <cell>eXactly Just be thou. Contented too.</cell>
+                     <cell>1 Thes. 4.6. 1 Cor. 6.8. Philip. 4.11.</cell>
+                     <cell>eXactly Just was I? Contented too?</cell>
+                  </row>
+                  <row>
+                     <cell>Yet painful in thy Calling, to get more.</cell>
+                     <cell>Eccles. 9.10. 1 Cor .7.17, 20, 24. </cell>
+                     <cell>Yet did I Labour to increase my store?</cell>
+                  </row>
+                  <row>
+                     <cell>Zealous in all good Works. Be good to th'Poor.</cell>
+                     <cell>Tit. 2.14. Gal. 2.10. Prov. 19.17.</cell>
+                     <cell>Zealous was I for God? and good to th' Poor?</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Tho. Parkhurst <hi>at the</hi> Bible <hi>and</hi> Three Crowns <hi>in</hi> Cheapside <hi>near</hi> Mercers Chapel <hi>16<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
